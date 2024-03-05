@@ -1,3 +1,5 @@
+![image](https://github.com/BrennanB572/sql-challenge/assets/114636599/318bf236-7a74-4214-b648-5e8d27048ae5)
+
 # ASU Data Analytics Bootcamp - Module 9 SQL Challenge
 
 ## Instructions
